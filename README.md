@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umeshmehta1" alt="umeshmehta1" /></a> </p>
-
+<img align="right" alt="coding"  width="300px"
 - 🔭 I’m currently working on [E-commerce Dashboard](https://github.com/UmeshMehta1/E-Commerce-Dashboard-MERN)
 
 - 👨‍💻 All of my projects are available at [https://github.com/UmeshMehta1](https://github.com/UmeshMehta1)
