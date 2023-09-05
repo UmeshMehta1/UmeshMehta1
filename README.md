@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Umesh Mehta</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<img align="right" alt="coding"  width="300px" border-radius="7px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
