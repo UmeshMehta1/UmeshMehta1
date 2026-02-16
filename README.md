@@ -3,6 +3,8 @@
 <h3 align="center">Hello Everyone🙏🙏🙏</h3>
 <h1>portfolio</h1>
 https://umeshmehta.me/
+<br>
+email: umesh.mehta@digitalpathshala.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
