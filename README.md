@@ -5,7 +5,7 @@
 https://umeshmehta.me/
 
 <spen>email:</spen>
-umesh.mehta@digitalpathshala.com
+umesh.mehta@digitalpathshalanepal.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
