@@ -3,8 +3,9 @@
 <h3 align="center">Hello Everyone🙏🙏🙏</h3>
 <h1>portfolio</h1>
 https://umeshmehta.me/
-<br>
-email: umesh.mehta@digitalpathshala.com
+
+<spen>email:</spen>
+umesh.mehta@digitalpathshala.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,4 +15,4 @@ email: umesh.mehta@digitalpathshala.com
 <a href="https://fb.com/umesh.mehta.980967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umesh" height="30" width="40" /></a>
 
 <a href="https://www.tiktok.com/@hello__umesh" target="blank">Tiktok</a>
-email: umesh.mehta@digitalpathshala.com
+
